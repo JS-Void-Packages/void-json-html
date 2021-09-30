@@ -1,0 +1,24 @@
+{
+  "name": "void-json-html",
+  "version": "1.0.0",
+  "description": "Convert Json to HTML",
+  "main": "json_to_html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrthomas20121/void-json-html.git"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "parser"
+  ],
+  "author": "Mrthomas20121",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mrthomas20121/void-json-html/issues"
+  },
+  "homepage": "https://github.com/Mrthomas20121/void-json-html#readme"
+}
